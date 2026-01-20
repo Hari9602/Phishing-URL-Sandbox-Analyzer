@@ -60,7 +60,7 @@ A professional, user-friendly desktop application for analyzing suspicious URLs 
 
 ```bash
 # If using Git
-git clone <repository-url>
+git clone "https://github.com/Hari9602/Phishing-URL-Sandbox-Analyzer.git"
 cd "Phishing URL Sandbox Analyzer"
 
 # Or download and extract the ZIP file
