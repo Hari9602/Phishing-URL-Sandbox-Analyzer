@@ -290,7 +290,7 @@ This is a production-ready tool for cybersecurity professionals. Feel free to en
 
 ## 📄 License
 
-Use responsibly for legitimate security research and SOC operations only.
+Use responsibly for legitimate security research and SOC operations only - see the [LICENSE](LICENSE) file for details. ⚖️.
 
 ---
 
