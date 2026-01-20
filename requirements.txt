@@ -1,0 +1,15 @@
+# Python Dependencies for Phishing URL Sandbox Analyzer
+# Install with: pip install -r requirements.txt
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+# Secure environment variable management
+python-dotenv>=1.0.0
+
+# Modern GUI framework with cute, clean design
+customtkinter>=5.2.0
+
+# Additional GUI dependencies (auto-installed with customtkinter)
+# - Pillow (image handling)
+# - darkdetect (system theme detection)
